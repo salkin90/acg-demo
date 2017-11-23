@@ -1,3 +1,5 @@
+other texts
+
 # This is my readme file
 
 Hello Cloud Guru
